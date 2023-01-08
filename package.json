@@ -1,0 +1,11 @@
+{
+  "name": "huskythoroughcoins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "",
+  "license": "ISC"
+}
